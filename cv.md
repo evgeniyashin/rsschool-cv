@@ -32,7 +32,7 @@ During studying in RS School: project [CV](https://evgeniyashin.github.io/rsscho
 
 ## **Education**
 * Belarusian-Russian University, Methods and Devices for Quality Control and Objects Condition Diagnostics, engineer
-* RS School Course "JavaScript/Front-End. Stage 0" (in progress)
+* RS School Course "JavaScript/Front-End" (in progress)
 
 ----------------------------
 
